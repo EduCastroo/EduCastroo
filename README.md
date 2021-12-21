@@ -4,7 +4,7 @@
 
 ## Eu sou o Eduardo!
 
-:computer: Desenvolvedor Web Fullstack Java || GENERATION BRASIL
+:computer: Desenvolvedor Web Full Stack Java || GENERATION BRASIL
 
 :house_with_garden: Olinda - Pernambuco | BR
 
