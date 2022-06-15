@@ -7,6 +7,7 @@
 :computer: Desenvolvedor Web Full Stack Java
 <br>
 :house_with_garden: Olinda - Pernambuco | BR
+https://manguetech.netlify.app/
 
 
 <div> 
