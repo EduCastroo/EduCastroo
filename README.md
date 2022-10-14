@@ -4,7 +4,7 @@
 
 ## Eu sou o Eduardo!
 
-:computer: Desenvolvedor Web Full Stack Java
+:computer: Desenvolvedor Full Stack Jr. | C# | .NET | Angular | SQL Server
 <br>
 :house_with_garden: Olinda - Pernambuco | BR
 <br>
